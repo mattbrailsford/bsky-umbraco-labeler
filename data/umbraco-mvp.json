@@ -62,5 +62,9 @@
   {
     "did": "did:plc:udrjqkwq65xzxrmaigb42bzz",
     "handle": "kevin.thejumps.co.uk"
+  },
+  {
+    "did": "did:plc:o5i2eaukiklwcjxyp3uilnfu",
+    "handle": "mozzy.dev"
   }
 ]
