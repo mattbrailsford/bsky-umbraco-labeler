@@ -70,5 +70,9 @@
   {
     "did": "did:plc:o5i2eaukiklwcjxyp3uilnfu",
     "handle": "mozzy.dev"
+  },
+  {
+    "did": "did:plc:obcinekai6lsqkm3pcvftfbs",
+    "handle": "protherj.bsky.social"
   }
 ]
