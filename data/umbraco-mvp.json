@@ -86,5 +86,9 @@
   {
     "did": "did:plc:6oobebu7tbwjirszuhsvyhea",
     "handle": "jasonelkin.uk"
+  },
+  {
+    "did":"did:plc:nrm5xslill6vxflcxhvffcr3",
+    "handle": "jacksorjacksor.bsky.social"
   }
 ]
