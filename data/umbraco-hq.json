@@ -38,5 +38,9 @@
   {
     "did": "did:plc:6ubcecd45lforck6edntlkv2",
     "handle": "cornehoskam.com"
+  },
+  {
+    "did": "did:plc:rc3oraicjqeiwb5dkasfiyld",
+    "handle": "umbraco.com"
   }
 ]
