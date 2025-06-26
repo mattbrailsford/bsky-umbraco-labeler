@@ -94,5 +94,9 @@
   {
     "did":"did:plc:xzqpflihj7bds7cdtkufh7nm",
     "handle": "stevetemple.com"
+  },
+  {
+    "did":"did:plc:zk75wf4t7subryfyokfod7gk",
+    "handle": "weldunn.bsky.social"
   }
 ]
