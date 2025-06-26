@@ -100,6 +100,10 @@
     "handle": "weldunn.bsky.social"
   },
   {
+    "did":"did:plc:2zyip6vxv4qxhtiqxfgm3hyx",
+    "handle": "jeffreyschoemaker.bsky.social"
+  },
+  {
     "did":"did:plc:ghd5e75wjd67462enbz6kozj",
     "handle": "eqberry.bsky.social"
   }
