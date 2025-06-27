@@ -110,5 +110,13 @@
   {
     "did":"did:plc:ghd5e75wjd67462enbz6kozj",
     "handle": "eqberry.bsky.social"
+  },
+  {
+    "did":"did:plc:niujpste56xmlascica3xf4o",
+    "handle": "markusjoha.bsky.social"
+  },
+  {
+    "did":"did:plc:4sqij32ax5ije2az7wwmkiao",
+    "handle": "andersbrohall.bsky.social"
   }
 ]
