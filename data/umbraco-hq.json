@@ -42,5 +42,9 @@
   {
     "did": "did:plc:rc3oraicjqeiwb5dkasfiyld",
     "handle": "umbraco.com"
+  },
+  {
+    "did": "did:plc:uyvqgbwqpyynhxkatlnor5l5",
+    "handle": "rickbutterfield.dev"
   }
 ]
