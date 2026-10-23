@@ -118,5 +118,9 @@
   {
     "did":"did:plc:ttcykd3ilpcd6o7brsik2whi",
     "handle": "afreedcp.bsky.social"
+  }.
+  {
+    "did": "did:plc:xdetndyeo7ydvxqupxe3kdjl",
+    "handle": "warrenbuckley.bsky.social"
   }
 ]
